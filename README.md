@@ -1,7 +1,5 @@
 # MyMidwife - Pregnancy Care & Support App
 
-![MyMidwife App](https://images.pexels.com/photos/5938649/pexels-photo-5938649.jpeg?auto=compress&cs=tinysrgb&w=1200)
-
 MyMidwife is a comprehensive pregnancy care and support application built with React Native and Expo. It provides expectant mothers with a seamless platform to manage their pregnancy journey, connect with healthcare providers, and access essential resources.
 
 ## 🌟 Features
@@ -120,13 +118,10 @@ const fetchAppointments = async (userId: string) => {
 ## 📱 Screenshots
 
 ### Home Screen
-![Home Screen](https://images.pexels.com/photos/5938650/pexels-photo-5938650.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 ### Appointments
-![Appointments](https://images.pexels.com/photos/5722164/pexels-photo-5722164.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 ### Messages
-![Messages](https://images.pexels.com/photos/5726837/pexels-photo-5726837.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 ## 🛠️ Installation
 
