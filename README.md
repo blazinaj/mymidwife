@@ -2,6 +2,10 @@
 
 MyMidwife is a comprehensive pregnancy care and support application built with React Native and Expo. It provides expectant mothers with a seamless platform to manage their pregnancy journey, connect with healthcare providers, and access essential resources.
 
+## 🌐 Live Demo
+
+Check out the live demo at: [MyMidwife Demo](https://brilliant-manatee-3888d1.netlify.app)
+
 ## 🌟 Features
 
 - **Appointment Management**
@@ -118,10 +122,19 @@ const fetchAppointments = async (userId: string) => {
 ## 📱 Screenshots
 
 ### Home Screen
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/d8171e10-ae35-4e8e-887e-84f564040937" />
+<img width="261" alt="image" src="https://github.com/user-attachments/assets/2bae18cb-b87c-4b3d-b5fa-b6af25583eec" />
 
 ### Appointments
+<img width="262" alt="image" src="https://github.com/user-attachments/assets/01482a7e-9701-4cce-91b4-ef46d6044a64" />
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/55cbe0d0-4295-4cad-b1c4-455476ce2f27" />
 
 ### Messages
+<img width="262" alt="image" src="https://github.com/user-attachments/assets/ed1e4543-c4bb-45b3-9018-77237bed34a1" />
+
+### Educational Resources
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/a0841b5a-40f4-4a3b-9141-997795716b47" />
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/8cd61bfb-13f0-47e7-b128-5e95a6dee9dc" />
 
 ## 🛠️ Installation
 
@@ -146,10 +159,6 @@ const fetchAppointments = async (userId: string) => {
    ```bash
    npm run dev
    ```
-
-## 🌐 Live Demo
-
-Check out the live demo at: [MyMidwife Demo](https://brilliant-manatee-3888d1.netlify.app)
 
 ## 📱 Platform Support
 
