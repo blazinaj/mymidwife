@@ -1,6 +1,6 @@
 import React from 'react';
 import { Tabs } from 'expo-router';
-import { Calendar, MessageCircle, Chrome as Home, Book, Activity } from 'lucide-react-native';
+import { Calendar, MessageCircle, Chrome as Home, Book, Activity, Users } from 'lucide-react-native';
 import { colors } from '@/constants/theme';
 
 export default function TabLayout() {
@@ -64,6 +64,15 @@ export default function TabLayout() {
           title: 'Health',
           tabBarIcon: ({ color, size }) => (
             <Activity size={size} color={color} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="patients"
+        options={{
+          title: 'Patients',
+          tabBarIcon: ({ color, size }) => (
+            <Users size={size} color={color} />
           ),
         }}
       />

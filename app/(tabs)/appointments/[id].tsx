@@ -211,7 +211,7 @@ export default function AppointmentDetailScreen() {
             </AppText>
 
             <AppText variant="bodyBold" style={styles.sectionTitle}>
-              Preparation
+              How to Prepare
             </AppText>
             <View style={styles.preparationList}>
               {appointmentDetails.preparation.map((item, index) => (
